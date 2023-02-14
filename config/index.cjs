@@ -41,6 +41,8 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2022-07-07' },
         // 一周年纪念日
         { keyword: 'marry_day', date: '2023-07-07' },
+        
+        
       ],
     },
   ],
@@ -48,7 +50,8 @@ const USER_CONFIG = {
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
   CALLBACK_TEMPLATE_ID: '4HV2L72b6qcWiqSuJuVAlh6DmXhOOEjVB4tySg_wMYE',
-
+  //节假日
+  holidaytts.DATA,
   CALLBACK_USERS: [
     {
       name: '自己',
