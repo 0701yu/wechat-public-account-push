@@ -78,7 +78,7 @@ const USER_CONFIG = {
     //networkHot:'3',
   
       //生活指数提示
-      tian_api_weather_tips_1.DATA
+      tian_api_weather_tips_1.DATA,
     // 全网热搜榜展示类型，默认展示概要信息: ['title': 仅展示标题, 'default': 展示概要信息]
     //networkHotType: 'default',
   },
