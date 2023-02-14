@@ -72,13 +72,13 @@ const USER_CONFIG = {
     //eveningGreeting: false,
   
     // 天行天气（展示未来N天，最多7天）, 填 0 则不使用，按需关闭不使用的功能可以提高运行速度
-    weather:'3',
+    //weather:'3',
   
     // 全网热搜榜（展示N条，最多30条）, 填 0 则不使用，按需关闭不使用的功能可以提高运行速度
-    networkHot:'3',
+    //networkHot:'3',
   
       //生活指数提示
-      tian_api_weather_tips_{offset}.DATA
+      tian_api_weather_tips_{1}.DATA
     // 全网热搜榜展示类型，默认展示概要信息: ['title': 仅展示标题, 'default': 展示概要信息]
     //networkHotType: 'default',
   },
